@@ -46,5 +46,79 @@
 </div>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 359 Contributions in the Year 2021
+ > 
+> 📦 83.3 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 8 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
+🌆 Daytime    124 commits    ███████████░░░░░░░░░░░░░░   43.66% 
+🌃 Evening    142 commits    ████████████░░░░░░░░░░░░░   50.0% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       86 commits     ███████░░░░░░░░░░░░░░░░░░   30.28% 
+Tuesday      51 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
+Wednesday    58 commits     █████░░░░░░░░░░░░░░░░░░░░   20.42% 
+Thursday     28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.86% 
+Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.39% 
+Sunday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.69%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58% 
+JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+PHP                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka--> 
 
