@@ -45,6 +45,9 @@
   
 </div>
 
+<details>
+  <summary>Wakatime Stats</summary>
+<br>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -121,4 +124,4 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
  Last Updated on 02/11/2021
 <!--END_SECTION:waka--> 
-
+</details>
