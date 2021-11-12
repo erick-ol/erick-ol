@@ -1,26 +1,43 @@
-## Olá, meu nome é Erick!
+## Hey, I'm Erick!
 
+---
+</br>
 <div align="center">
-  <img height="150px" align="right" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" />
-  <div align="left" style="display: inline_block">
-    <li>- 🔭 Atualmente estudo Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a></li>
-    <li>- 🌱 Aprendendo MongoDB</li>
-    <li>- 💬 Me pergunte sobre Design e Frontend</li>
-    <li>- 😄 Pronomes: Ele/dele</li>
-    <li>- ⚡ Fun fact: Amo Harry Potter!!!</li>
+  <img height="200px" align="right" style="margin-left:30px;" src="https://media.tumblr.com/tumblr_m4vjobYRbG1qj3ir1.gif" />
+  <div align="left" style="display: inline_block" markdown="1">
+    
+```js
+  const aboutMe = {
+    name: "Erick Santos",
+    learning: "MongoDB",
+    askMeAbout: "Teen Books",
+    pronouns: "He/Him",
+    funFact: "I love Harry Potter <3",
+    study: {
+      courseName: "Software Development",
+      school: "Trybe"
+    }
+  }
+```
+    
   </div>
 </div>
+</br>
 
 ---
 
+</br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-ol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erick-ol&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 </div>
+</br>
 
 ---
 
-### Ferramentas e tecnologias que utilizo:
+</br>
+
+### Tools and Technologies that I use
 
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -34,20 +51,26 @@
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+</br>
 
 ---
 
-### Contato
+</br>
+
+### Contact
 
 <div>
   <a href="https://www.linkedin.com/in/erickosantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:erickosantos.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/eerick_ol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rick.ods" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/users/692041528415223898" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+</br>
 
 ---
+
+</br>
 
 <details>
   <summary>Wakatime Stats</summary>
