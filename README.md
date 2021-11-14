@@ -15,8 +15,8 @@
     funFact: "I love Harry Potter <3",
     study: {
       courseName: "Software Development",
-      school: "Trybe"
-    }
+      school: "Trybe",
+    },
   }
 ```
     
