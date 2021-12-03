@@ -125,16 +125,16 @@ Sunday       37 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sd-013-a-mongodb-commerce40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -155,6 +155,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/12/2021
+ Last Updated on 03/12/2021
 <!--END_SECTION:waka--> 
 </details>
