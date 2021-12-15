@@ -125,19 +125,16 @@ Sunday       37 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               27 mins             ███████████████░░░░░░░░░░   60.46% 
-JSON                     16 mins             █████████░░░░░░░░░░░░░░░░   36.98% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-inter                    45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -158,6 +155,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka--> 
 </details>
