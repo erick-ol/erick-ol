@@ -17,7 +17,7 @@
       courseName: "Software Development",
       school: "Trybe",
     },
-  }
+  };
 ```
     
   </div>
