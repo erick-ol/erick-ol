@@ -88,7 +88,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 194.7 kB Used in GitHub's Storage 
+> 📦 194.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -155,6 +155,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka--> 
 </details>
