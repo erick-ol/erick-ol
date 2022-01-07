@@ -9,7 +9,7 @@
 ```js
   const aboutMe = {
     name: "Erick Santos",
-    learning: "MongoDB",
+    learning: "Node.js",
     askMeAbout: "Teen Books",
     pronouns: "He/Him",
     funFact: "I love Harry Potter <3",
@@ -54,6 +54,7 @@
   <img align="center" alt="mysql" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 </br>
 
