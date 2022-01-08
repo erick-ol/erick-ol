@@ -81,13 +81,13 @@
   <summary>Wakatime Stats</summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 12 Contributions in the Year 2022
+> 🏆 13 Contributions in the Year 2022
  > 
 > 📦 195.1 kB Used in GitHub's Storage 
  > 
@@ -126,18 +126,20 @@ Sunday       37 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 48 mins        ███████████████████████░░   95.34% 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+JavaScript               2 hrs 50 mins       ███████████████████████░░   92.9% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.22% 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-appreact                 1 hr 53 mins        █████████████████████████   100.0%
+appreact                 1 hr 53 mins        ███████████████░░░░░░░░░░   61.73% 
+trybe-exercises          1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   38.27%
 
 💻 Operating System: 
-Linux                    1 hr 53 mins        █████████████████████████   100.0%
+Linux                    3 hrs 3 mins        █████████████████████████   100.0%
 
 ```
 
@@ -158,6 +160,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/01/2022
+ Last Updated on 08/01/2022
 <!--END_SECTION:waka--> 
 </details>
