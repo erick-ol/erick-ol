@@ -81,8 +81,6 @@
   <summary>Wakatime Stats</summary>
 <br>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
@@ -161,6 +159,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 18:44:44 UTC
+ Last Updated on 08/02/2022 18:41:55 UTC
 <!--END_SECTION:waka--> 
 </details>
