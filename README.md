@@ -9,7 +9,7 @@
 ```js
   const aboutMe = {
     name: "Erick Santos",
-    learning: "Node.js",
+    learning: "Node.js and TypeScript",
     askMeAbout: "Teen Books",
     pronouns: "He/Him",
     funFact: "I love Harry Potter <3",
@@ -55,6 +55,7 @@
   <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="TypeScript.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 </br>
 
@@ -80,10 +81,9 @@
 <details>
   <summary>Wakatime Stats</summary>
 <br>
+      
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2014%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
