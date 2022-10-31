@@ -83,9 +83,9 @@
 <br>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-754%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -166,6 +166,6 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2022 18:56:49 UTC
+ Last Updated on 31/10/2022 18:54:43 UTC
 <!--END_SECTION:waka--> 
 </details>
