@@ -9,14 +9,15 @@
 ```js
   const aboutMe = {
     name: "Erick Santos",
-    learning: "Node.js and TypeScript",
+    learning: "UX/UI and Vue.js",
     askMeAbout: "Teen Books",
     pronouns: "He/Him",
     funFact: "I love Harry Potter <3",
-    study: {
-      courseName: "Software Development",
-      school: "Trybe",
-    },
+    working_with: [
+      "React.js",
+      "TypeScript",
+      "Ruby on Rails"
+    ]
   };
 ```
     
