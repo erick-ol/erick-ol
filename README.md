@@ -1,4 +1,4 @@
-## Hey, I'm Erick!
+## Hey, I'm Rick!
 
 ---
 </br>
