@@ -9,14 +9,14 @@
 ```js
   const aboutMe = {
     name: "Erick Santos",
-    learning: "UX/UI and Vue.js",
-    askMeAbout: "Teen Books",
+    learning: "UX/UI and Next.js",
+    askMeAbout: "Teen Books and TV Show",
     pronouns: "He/Him",
     funFact: "I love Harry Potter <3",
     working_with: [
       "React.js",
       "TypeScript",
-      "Ruby on Rails"
+      "Next.js"
     ]
   };
 ```
