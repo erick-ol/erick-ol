@@ -33,12 +33,13 @@ const aboutMe = {
 
 </br>
 <div align="center">
-  ![Stats](./profile/stats.svg)
+  <img src="./profile/stats.svg" />
   
-  ![Wakatime](./profile/wakatime.svg)
+  <img src="./profile/wakatime.svg" />
       
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C)](https://git.io/streak-stats)
-      
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C" />
+  </a>
 </div>
 </br>
 
