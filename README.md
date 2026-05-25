@@ -37,9 +37,7 @@ const aboutMe = {
   
   <img src="./profile/wakatime.svg" />
       
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C" />
 </div>
 </br>
 
@@ -79,97 +77,3 @@ const aboutMe = {
   
 </div>
 </br>
-
----
-
-</br>
-
-<details>
-  <summary>Wakatime Stats</summary>
-<br>
-      
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2037%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 89 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 51 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-🌆 Daytime                2391 commits        ███████████░░░░░░░░░░░░░░   44.53 % 
-🌃 Evening                2259 commits        ███████████░░░░░░░░░░░░░░   42.07 % 
-🌙 Night                  93 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1607 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-Tuesday                  668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Wednesday                453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Thursday                 1037 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Friday                   488 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Saturday                 424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-Sunday                   693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-TypeScript               8 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
-CSS                      7 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
-Markdown                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 41 mins      ████████████████████████░   95.94 % 
-Claude Code              50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-
-🐱‍💻 Projects: 
-heineken-senac-lp        13 hrs 7 mins       ████████████████░░░░░░░░░   63.89 % 
-cria-studio-app-front    4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-cria-studio              1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-gaia-design-system       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-emails                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-
-💻 Operating System: 
-Mac                      20 hrs 31 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               36 repos            █████████████░░░░░░░░░░░░   53.73 % 
-TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/erick-ol/erick-ol/main/assets/bar_graph.png)
-
-
- Last Updated on 25/05/2026 20:30:03 UTC
-<!--END_SECTION:waka--> 
-</details>
