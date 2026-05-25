@@ -89,89 +89,87 @@ const aboutMe = {
 <br>
       
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C203%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,291 Contributions in the Year 2022
+> 📦 ? Used in GitHub's Storage 
  > 
-> 📦 232.4 kB Used in GitHub's Storage 
+> 🏆 89 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 51 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-🌆 Daytime    671 commits    █████████████░░░░░░░░░░░░   52.42% 
-🌃 Evening    461 commits    █████████░░░░░░░░░░░░░░░░   36.02% 
-🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
-
+🌞 Morning                627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌆 Daytime                2391 commits        ███████████░░░░░░░░░░░░░░   44.53 % 
+🌃 Evening                2259 commits        ███████████░░░░░░░░░░░░░░   42.07 % 
+🌙 Night                  93 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       287 commits    █████░░░░░░░░░░░░░░░░░░░░   22.42% 
-Tuesday      258 commits    █████░░░░░░░░░░░░░░░░░░░░   20.16% 
-Wednesday    220 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.19% 
-Thursday     196 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
-Friday       157 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.27% 
-Saturday     78 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-Sunday       84 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
-
+Monday                   1607 commits        ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Tuesday                  668 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Wednesday                453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Thursday                 1037 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Friday                   488 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Saturday                 424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Sunday                   693 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Sao_Paulo
+🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               11 hrs 6 mins       ██████████████████████░░░   87.75% 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
-Ruby                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.02% 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+TypeScript               8 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
+CSS                      7 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   37.71 % 
+Markdown                 2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  19 hrs 41 mins      ████████████████████████░   95.94 % 
+Claude Code              50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🐱‍💻 Projects: 
-yuri-core                8 hrs 41 mins       █████████████████░░░░░░░░   68.67% 
-mobile                   1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
-yuri                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-server                   48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
-web                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18%
+heineken-senac-lp        13 hrs 7 mins       ████████████████░░░░░░░░░   63.89 % 
+cria-studio-app-front    4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+cria-studio              1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+gaia-design-system       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+emails                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-WSL                      12 hrs 40 mins      █████████████████████████   100.0%
-
+Mac                      20 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               33 repos            ██████████████░░░░░░░░░░░   58.93% 
-TypeScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
-PHP                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
-
+JavaScript               36 repos            █████████████░░░░░░░░░░░░   53.73 % 
+TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
+
 
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/erick-ol/erick-ol/main/charts/bar_graph.png) 
+![Lines of Code chart](https://raw.githubusercontent.com/erick-ol/erick-ol/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2022 18:51:23 UTC
+ Last Updated on 25/05/2026 20:30:03 UTC
 <!--END_SECTION:waka--> 
 </details>
