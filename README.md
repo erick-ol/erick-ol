@@ -35,8 +35,7 @@ const aboutMe = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-ol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
       
-  [[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C)](https://git.io/streak-stats)](https://streak-stats.demolab.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C)
-      
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=erick-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C)](https://git.io/streak-stats)
       
   [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=erick_ol&layout=compact&theme=dracula&title_color=2FC18C&bg_color=1A1D21)](https://wakatime.com/@erick_ol)
       
