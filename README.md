@@ -7,18 +7,22 @@
   <div align="left" style="display: inline_block" markdown="1">
     
 ```js
-  const aboutMe = {
-    name: "Erick Santos",
-    learning: "UX/UI and Next.js",
-    askMeAbout: "Teen Books and TV Show",
-    pronouns: "He/Him",
-    funFact: "I love Harry Potter <3",
-    working_with: [
-      "React.js",
-      "TypeScript",
-      "Next.js"
-    ]
-  };
+const aboutMe = {
+  name: "Erick Santos",
+  role: "Creative Engineer",
+  working_with: [
+    "React.js",
+    "TypeScript",
+    "CSS Modules",
+    "Zod + React Hook Form",
+    "TanStack Query"
+  ],
+  learning: "Using AI to automate processes in both dev and design workflows",
+  askMeAbout: "Cold brew",
+  pronouns: "He/Him",
+  identity: ["Autistic", "LGBTQIA+"],
+  funFact: "Big fan of horror movies and TV shows"
+};
 ```
     
   </div>
