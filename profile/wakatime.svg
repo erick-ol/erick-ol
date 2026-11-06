@@ -458,7 +458,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 1,259 hrs 23 mins
+        TypeScript - 1,259 hrs 24 mins
       </text>
     </g>
   
@@ -486,7 +486,7 @@
     <g transform="translate(25, 75)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 82 hrs 56 mins
+        JSON - 83 hrs 1 min
       </text>
     </g>
   
@@ -521,14 +521,14 @@
     <g transform="translate(230, 125)">
       <circle cx="5" cy="6" r="5" fill="#cb171e" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        YAML - 35 hrs 43 mins
+        YAML - 35 hrs 44 mins
       </text>
     </g>
   
     <g transform="translate(25, 150)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Bash - 24 hrs 51 mins
+        Bash - 24 hrs 52 mins
       </text>
     </g>
   
